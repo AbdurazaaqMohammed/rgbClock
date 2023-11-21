@@ -21,3 +21,4 @@ Clock app written in Flutter - color and background customizable
 * Timezone lists with UTC offset
 * RGB effect speed
 * Milliseconds
+* Analog clock
