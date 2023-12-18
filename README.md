@@ -22,3 +22,4 @@ Clock app written in Flutter - color and background customizable
 * RGB effect speed
 * Milliseconds
 * Analog clock
+* make it use themes properly
